@@ -96,3 +96,4 @@
 ^inst/gdal$
 ^inst/proj$
 ^revdep$
+^gdalcubes\.Rproj$
